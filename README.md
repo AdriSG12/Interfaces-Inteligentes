@@ -17,7 +17,7 @@ Para cerrar esa ventana bastará con dejar de mirar a ese cuadro o pulsar el bot
 
 Algunos cuadros tienen disponible un video en 360 grados. Para ver los videos de los cuadros que tengan disponible esta opción hay que abrir la ventana de información del cuadro y pulsar el botón espacio como se indicará en la parte inferior de la ventana de información.
 
-(FOTO DE LA VENTANA DE INFORMACIÓN MARCANDO EL BOTOÓN ACCEDER AL VIDEO)
+![Cuadro_video](https://github.com/AdriSG12/Interfaces-Inteligentes/assets/57297807/3ce8b719-e2d1-4f4c-9c2a-bfec563be107)
 
 ### - Cambiar de piso
 El museo dispone de dos pisos, para subir y bajar las escaleras el usuario solo deberá colocarse sobre los teletransportes del piso actual para subir o bajar de piso.
@@ -35,6 +35,9 @@ Dentro del proyecto se han trabajado muchos contenidos trabajados en la asignatu
 - Los propios vídeos 360º, que ha supuesto un gran reto no solo reproducirlos, sino disponer de ellos y permitir el movimiento una vez se iniciado el video.
 - El uso de eventos y delegados, que han sido de gran utilidad a la hora de programar elementos como el cuestionario. 
 ## GIF DE EJECUCIÓN
+
+https://github.com/AdriSG12/Interfaces-Inteligentes/assets/57297807/48e89397-9aa2-4144-b063-28783cef6d2d
+
 ## ACTA DE TRABAJO
 |TAREAS|ASIGNACIÓN|
 |------|----------|
