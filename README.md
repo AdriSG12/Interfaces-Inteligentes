@@ -36,4 +36,16 @@ Dentro del proyecto se han trabajado muchos contenidos trabajados en la asignatu
 - El uso de eventos y delegados, que han sido de gran utilidad a la hora de programar elementos como el cuestionario. 
 ## GIF DE EJECUCIÓN
 ## ACTA DE TRABAJO
+|TAREAS|ASIGNACIÓN|
+|------|----------|
+|Recopilación Videos 360º| En grupo|
+|Recopilación obras| En grupo|
+|Recopilación datos de obras | En grupo|
+|Programación Videos 360º| Adrián|
+|Estructura museo| Jorge
+|Programación jugador| Gabriel|
+|Interfaz de las obras| Jorge|
+|Cuestionario| Jorge y Grabriel |
+|Interacción jugador con obras y interfaces flotantes | Adrián|
+
 
