@@ -51,4 +51,7 @@ https://github.com/AdriSG12/Interfaces-Inteligentes/assets/57297807/48e89397-9aa
 |Cuestionario| Jorge y Grabriel |
 |Interacción jugador con obras y interfaces flotantes | Adrián|
 
+## PRESENTACIÓN
+https://docs.google.com/presentation/d/1uwi5DzHhffHO7aCI-IRr6cC7fTt4h2V7c_XjptJwouo/edit#slide=id.g35f391192_00
+
 
